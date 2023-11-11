@@ -40,6 +40,7 @@ Comet: [LLMOps: Building Real-World Applications With Large Language Models](htt
 [Training Data for Machine Learning](https://www.oreilly.com/library/view/training-data-for/9781492094517/?_gl=1*13wrku*_ga*MTI2OTM5NDUwMi4xNjk0NjM4NDY2*_ga_092EL089CH*MTY5NDYzODQ2NS4xLjEuMTY5NDYzODY5My41Ny4wLjA.) by Anthony Sarkis, November 2023  
 [Speech and Language Processing](https://web.stanford.edu/~jurafsky/slp3/) by Dan Jurafsky and James H. Martin, Jan 2023 (ongoing)  
 [How to Build Your Career in AI](https://info.deeplearning.ai/how-to-build-a-career-in-ai-book) by Andrew Ng  
+[Mathematics for Machine Learning](https://mml-book.com/) by by Marc Peter Deisenroth, A. Aldo Faisal, and Cheng Soon Ong, 2020  
 
 ### Research Papers
 
