@@ -1,5 +1,5 @@
 # ML Librarian
-A collection of ML/LLM/AI learning resources, research and industry news. What do you want to learn?
+Skillfully applying AI is becoming increasingly important in many jobs, and the field of machine learning and generative AI is growing by leaps and bounds every day. Luckily there are many free or affordable ways to learn online, and on this site I share easily accessible ML/AI learning resources that can help people from many different backgrounds increase their AI literacy. 
 
 ### Courses  
 
@@ -11,11 +11,15 @@ fast.ai: [Practical Deep Learning for Coders](https://course.fast.ai)
 DeepLearning.AI: [Generative AI Short Courses](https://www.deeplearning.ai/short-courses/)  
 Stanford: [CS 224N Natural Language Processing with Deep Learning](https://web.stanford.edu/class/cs224n/)  
 Udemy: [OpenAI Python API Bootcamp](https://www.udemy.com/course/openai-python-api-bootcamp-learn-to-use-ai-gpt3-and-more/)  
+Microsoft: [Generative AI for Beginners](https://microsoft.github.io/generative-ai-for-beginners/#/)  
+Comet: [LLMOps: Building Real-World Applications With Large Language Models](https://www.comet.com/site/llm-course/)  
 
 ### Videos
 
 [A Hackers' Guide to Language Models](https://youtu.be/jkrNMKz9pWU?si=kcl44wl9eIgobsPh)  
 [AI Explained](https://www.youtube.com/@aiexplained-official)  
+[Stanford CS25 - Transformers United](https://youtube.com/playlist?list=PLoROMvodv4rNiJRchCzutFw5ItR_Z27CM&si=ii6HLtDjrEtcWxy-)  
+[Advanced RAG: Chunking, Embeddings, and Vector Databases 🚀 | LLMOps](https://www.youtube.com/watch?v=tTW3dOfyCpE)  
 
 ### Newsletters
 
@@ -26,6 +30,8 @@ Udemy: [OpenAI Python API Bootcamp](https://www.udemy.com/course/openai-python-a
 [A Gentle Introduction to Vector Databases](https://weaviate.io/blog/what-is-a-vector-database)  
 [Non-engineers guide: Train a LLaMA 2 chatbot](https://huggingface.co/blog/Llama2-for-non-engineers)  
 [Prompt Engineering](https://lilianweng.github.io/posts/2023-03-15-prompt-engineering/)  
+[Getting started with Llama](https://ai.meta.com/llama/get-started/?utm_source=linkedin&utm_medium=organic_social&utm_campaign=llama2&utm_content=image)  
+[How to Build a Retrieval-Augmented Generation Chatbot](https://www.anaconda.com/blog/how-to-build-a-retrieval-augmented-generation-chatbot?utm_campaign=generalnurture&utm_medium=organicsocial&utm_source=linkedin)  
 
 ### Books
 
@@ -33,10 +39,15 @@ Udemy: [OpenAI Python API Bootcamp](https://www.udemy.com/course/openai-python-a
 [Fundamentals of Data Engineering: Plan and Build Robust Data Systems](https://www.amazon.com/Fundamentals-Data-Engineering-Robust-Systems/dp/1098108302/ref=sr_1_1?crid=3BVVE9KBXX8A4&keywords=fundamentals+of+data+engineering&qid=1698788354&sprefix=fundamentals+of+data%2Caps%2C201&sr=8-1) by by Joe Reis and Matt Housley, July 2022  
 [Training Data for Machine Learning](https://www.oreilly.com/library/view/training-data-for/9781492094517/?_gl=1*13wrku*_ga*MTI2OTM5NDUwMi4xNjk0NjM4NDY2*_ga_092EL089CH*MTY5NDYzODQ2NS4xLjEuMTY5NDYzODY5My41Ny4wLjA.) by Anthony Sarkis, November 2023  
 [Speech and Language Processing](https://web.stanford.edu/~jurafsky/slp3/) by Dan Jurafsky and James H. Martin, Jan 2023 (ongoing)  
+[How to Build Your Career in AI](https://info.deeplearning.ai/how-to-build-a-career-in-ai-book) by Andrew Ng  
 
 ### Research Papers
 
 [Attention Is All You Need](https://arxiv.org/pdf/1706.03762.pdf)  
+
+### Communities
+
+[LLMOps Space](https://llmops.space/discord)  
 
 ### Study Tools & Tips
 
