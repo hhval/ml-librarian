@@ -45,6 +45,8 @@ Comet: [LLMOps: Building Real-World Applications With Large Language Models](htt
 ### Research Papers
 
 [Attention Is All You Need](https://arxiv.org/pdf/1706.03762.pdf)  
+[Training language models to follow instructions with human feedback](https://arxiv.org/abs/2203.02155)  
+[A Benchmark to Understand the Role of Knowledge Graphs on Large Language Model's Accuracy for Question Answering on Enterprise SQL Databases](https://arxiv.org/abs/2311.07509)  
 
 ### Communities
 
