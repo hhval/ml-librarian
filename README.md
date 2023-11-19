@@ -13,6 +13,7 @@ Stanford: [CS 224N Natural Language Processing with Deep Learning](https://web.s
 Udemy: [OpenAI Python API Bootcamp](https://www.udemy.com/course/openai-python-api-bootcamp-learn-to-use-ai-gpt3-and-more/)  
 Microsoft: [Generative AI for Beginners](https://microsoft.github.io/generative-ai-for-beginners/#/)  
 Comet: [LLMOps: Building Real-World Applications With Large Language Models](https://www.comet.com/site/llm-course/)  
+MIT: [Introduction to Data-Centric AI](https://dcai.csail.mit.edu)  
 
 ### Videos
 
