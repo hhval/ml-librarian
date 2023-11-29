@@ -14,13 +14,17 @@ Udemy: [OpenAI Python API Bootcamp](https://www.udemy.com/course/openai-python-a
 Microsoft: [Generative AI for Beginners](https://microsoft.github.io/generative-ai-for-beginners/#/)  
 Comet: [LLMOps: Building Real-World Applications With Large Language Models](https://www.comet.com/site/llm-course/)  
 MIT: [Introduction to Data-Centric AI](https://dcai.csail.mit.edu)  
+HuggingFace: [NLP Course](https://huggingface.co/learn/nlp-course)  
 
 ### Videos
 
-[A Hackers' Guide to Language Models](https://youtu.be/jkrNMKz9pWU?si=kcl44wl9eIgobsPh)  
+[Intro to Large Language Models](https://youtu.be/zjkBMFhNj_g?si=EvjkkQk13XND6Z6i) with Andrej Karpathy  
+[A Hackers' Guide to Language Models](https://youtu.be/jkrNMKz9pWU?si=kcl44wl9eIgobsPh) with 
+Jeremy Howard  
 [AI Explained](https://www.youtube.com/@aiexplained-official)  
 [Stanford CS25 - Transformers United](https://youtube.com/playlist?list=PLoROMvodv4rNiJRchCzutFw5ItR_Z27CM&si=ii6HLtDjrEtcWxy-)  
 [Advanced RAG: Chunking, Embeddings, and Vector Databases 🚀 | LLMOps](https://www.youtube.com/watch?v=tTW3dOfyCpE)  
+[Natural Language Processing at UT Austin, 2023-2024 version (Greg Durrett)](https://m.youtube.com/playlist?list=PLofp2YXfp7TZZ5c7HEChs0_wfEfewLDs7)  
 
 ### Newsletters
 
@@ -48,6 +52,7 @@ MIT: [Introduction to Data-Centric AI](https://dcai.csail.mit.edu)
 [Attention Is All You Need](https://arxiv.org/pdf/1706.03762.pdf)  
 [Training language models to follow instructions with human feedback](https://arxiv.org/abs/2203.02155)  
 [A Benchmark to Understand the Role of Knowledge Graphs on Large Language Model's Accuracy for Question Answering on Enterprise SQL Databases](https://arxiv.org/abs/2311.07509)  
+[Can Generalist Foundation Models Outcompete Special-Purpose Tuning? Case Study in Medicine](https://arxiv.org/pdf/2311.16452.pdf)  
 
 ### Communities
 
